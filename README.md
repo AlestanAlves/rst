@@ -4,6 +4,7 @@ reStructuredText é um formato de arquivo para dados textuais usado principalmen
 
 ### Titulos e subtitulos de texto 
 
+
 Como em Markdown você usa # para definir o tamanho da letra do titulo ou como em HTML que você usa h1, h2 e etc em .rst você usa este estilo do maior para o menor:
 
 ```
