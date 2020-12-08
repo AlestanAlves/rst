@@ -21,7 +21,6 @@ Section 1.2 Title
 
 Chapter 2 Title
 ===============
-
 ```
 
 ### Edição de texto
